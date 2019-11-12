@@ -20,6 +20,11 @@ export const ANIMALS = [
 
 export const TERRITORIES = [
   {
+    id: 'city',
+    name: 'City',
+    superpower: 'Skyscrapers!'
+  },
+  {
     id: 'forest',
     name: 'Forest',
     superpower: 'Trees!'
@@ -52,5 +57,9 @@ export const OTHER_KINGDOMS = [
   {
       app: 'https://thirsty-jang-0c0a17.netlify.com',
       ruler: 'ma1222042.id.blockstack'
+  },
+  {
+    app: 'https://animalkingdoms.netlify.com',
+    ruler: 'meepers.id.blockstack'
   }
 ]
